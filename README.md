@@ -1,8 +1,7 @@
 # Olá! 👋
 
-Me chamo **Hevelin**, tenho 21 anos sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Bahia, atualmente estou cursando o 4 semestre.
+Me chamo **Hevelin**, tenho 22 anos, sou graduada em Análise e Desenvolvimento de Sistemas com experiência prática em PHP, Vue.js, MySQL e Laravel. 
 
-Comecei a programar com 17 anos, e em 2020 comecei a dedicar meus estudos a aréa de **desenvolvimento web.** Atualmente trabalho com Dev JR e estudo com  foco em me tornar uma **Dev fullstack**.
 
 <p align="left">
   <a href="https://www.instagram.com/hevelinfrts/" alt="Instagram">
